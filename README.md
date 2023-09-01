@@ -1,15 +1,16 @@
-# Curso de Node Js 
-# 1. Apresentação do curso 
+#Curso de Node Js
+
+#1. Apresentação do curso 
 - Banco de dados (SQL, MongoDB )
 - FUndamentos com CSS 
 - Node Monololito
 - Node API e front com React 
  
-## Apresentação do curso 
+##Sumário
 1. [Introdução](#introducao)
 2. [Fundamentos do Node JS](#fundamentos) 
-3. [Node Core Modules](#node-core)
-4. [Fundamentos do npm](#fundamentos-npm)
+3. [Node Core Modules]()
+4. [Fundamentos do npm]()
 5. [Projeto 1: Accounts]()
 6. [Introducao ao Express]()
 7. [Template Engine com Express]()
@@ -21,17 +22,17 @@
 13. [APIS com Node js]()
 14. [Projeto 4: Get a Pet]()
 
-<div id='introducao'/> 
-# Introdução 
- 
-## O que é Node Js? 
+<div id='introducao'/>
+
+#Introdução 
+##O que é Node Js? 
 - O Node Js é uma runtime de Javascript
 - Ou seja, umba biblioteaca utilizada por um compilador durante a execução do programa 
 - Está construida na V8 Engine (Escrita em C++ da Google)
 - Possibilitando criar softwares em JS no lado do servidor 
 - Temos então um código JS rodando em C++ para garantir alta performace
 
-## O que é npm? 
+##O que é npm? 
 - O npm é um gerenciador de pacotes do Node 
 - Vamos poder utilizar bibliotecas de terceiros, baixando elas pelo npm 
 - E também executar determinados scripts no nosso programa
@@ -39,9 +40,13 @@
 - Os modulos externos ficam numa pasta chamada node_modules
 - Ele deve ser descartatom ou seja, a cada instalaçào do projeto baixamos todos os pacotes novamente. 
 
-## Utilizando um módulo 
+##Utilizando um módulo 
 - Agora vamos evoluir o nível de todos os nossos programas
 - Importaremos um módulo do Node: O File System 
 - Este módulo serve para trabalhar com diretório, arquivos, ect 
 - E ele é um Core Module, ou seja, não é necessário instalar
 - Podemos importar módulos coom a instruçào import 
+
+<div id='fundamentos'/>
+ 
+ # Fundamentos
