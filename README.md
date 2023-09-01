@@ -7,9 +7,9 @@
  
 ## Apresentação do curso 
 1. [Introdução](#introducao)
-2. [Fundamentos do Node JS() 
-3. [Node Core Modules ]()
-4. [Fundamentos do npm]()
+2. [Fundamentos do Node JS](#fundamentos) 
+3. [Node Core Modules](#node-core)
+4. [Fundamentos do npm](#fundamentos-npm)
 5. [Projeto 1: Accounts]()
 6. [Introducao ao Express]()
 7. [Template Engine com Express]()
@@ -21,8 +21,9 @@
 13. [APIS com Node js]()
 14. [Projeto 4: Get a Pet]()
 
-#Introdução
-
+<div id='introducao'/> 
+# Introdução 
+ 
 ## O que é Node Js? 
 - O Node Js é uma runtime de Javascript
 - Ou seja, umba biblioteaca utilizada por um compilador durante a execução do programa 
