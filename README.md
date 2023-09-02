@@ -59,3 +59,8 @@ Módulos internos
 - Para  importar vamos utilizar a instrução require
 - Vamos criar um módulo! 
 >>>>>>> ed8e0a8 (fundamentos do node)
+
+Core Modules
+- No node temos diversos Core Modules, que são os que vêm prontos para serem utilizados 
+- Eles resolvem diversos problemas como: trabalhar com arquivos e diretórios, sevir aplicações e etc.
+- Precisamos importar estes módulos pro projeto para poder utilizar
