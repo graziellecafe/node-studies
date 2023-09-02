@@ -1,6 +1,7 @@
 <h1>Curso de Node Js</h1>
 
 <h1>Apresentação do curso </h1>
+
 - Banco de dados (SQL, MongoDB )
 - FUndamentos com CSS 
 - Node Monololito
@@ -8,14 +9,19 @@
 
 <div id='introducao'/>
 
+<h2>JS</h2>
 
-O que é Node Js?
+- Interpretador
 
-<<<<<<< HEAD
-=======
+
+<h2>O que é Node Js?</h2>
+
+Interpretador que intepreta fora do navegadores
+
+
 <h1> Introdução </h1>
 ## O que é Node Js? 
->>>>>>> ed8e0a8 (fundamentos do node)
+
 - O Node Js é uma runtime de Javascript
 - Ou seja, umba biblioteaca utilizada por um compilador durante a execução do programa 
 - Está construida na V8 Engine (Escrita em C++ da Google)
@@ -38,11 +44,9 @@ O que é npm?
 - E ele é um Core Module, ou seja, não é necessário instalar
 - Podemos importar módulos coom a instruçào import 
 
-<<<<<<< HEAD
+
 <div id='fundamentos'/>
  
-<h1> Fundamentos </h1> 
-=======
 <h1> Fundamentos  </h1>
 ##O que são módulos 
 - Módulos são scripts reaproveitáveis, que utilizamos bastamte programando em Node 
