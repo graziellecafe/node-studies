@@ -34,11 +34,19 @@
 <h1> Introdução </h1>
 ## O que é Node Js? 
 
-- O Node Js é uma runtime de Javascript
+- É um interpretador Javasctipt, que roda fora dos navegadores
+ O Node Js é uma runtime de Javascript
 - Ou seja, umba biblioteaca utilizada por um compilador durante a execução do programa 
 - Está construida na V8 Engine (Escrita em C++ da Google)
 - Possibilitando criar softwares em JS no lado do servidor 
 - Temos então um código JS rodando em C++ para garantir alta performace
+
+
+O que posso construir fora dos navegodores?
+- Construir aplicações web end
+- Criar aplicacoes pra windows  
+- Criar aplicacoes de linha de comando 
+
 
 O que é npm? 
 
@@ -66,6 +74,13 @@ O que é npm?
     - Internos: módulos que nós desenvolvemos 
     - Core Modules: Módulos que vem como Node Js
     - Externos: módulos que instalamos via npm 
+
+<h2> O que são módulos </h2>
+- São pedaços do seu programa 
+- Servem para não estar em uma única página
+- Separar o seu código em vários arquivos 
+- Módulos para usar uma biblioteca externa 
+
 
 <h2>Módulos internos</h2> 
 - Os módulos internos são criados nas pastas do nosso projeto 
