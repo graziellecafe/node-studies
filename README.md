@@ -95,3 +95,13 @@ O que é npm?
 - No node temos diversos Core Modules, que são os que vêm prontos para serem utilizados 
 - Eles resolvem diversos problemas como: trabalhar com arquivos e diretórios, sevir aplicações e etc.
 - Precisamos importar estes módulos pro projeto para poder utilizar
+
+
+<h3>O que é HTTP</h3>
+- Um usuário tem um trabalho  da escola, ele vai ate o Google e o Google vai retorna a pesquisa. 
+- O Usuiario só consegue acessar o Google gracas ao HTTP, que é **Protocolo de Transferência** com a web.
+- Mandando informacoes para o goodle através do protocolo HTTP. 
+- HTTP: **Protocoloco de Trasferencia de dados** 
+- Cliente - Servidor 
+- Servidor: enviar a resposta
+- Cliente: requisição
