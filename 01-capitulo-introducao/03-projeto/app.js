@@ -4,4 +4,3 @@ http.createServer(function(requisicao, resposta){
 }).listen(3000); 
 console.log('Meu servidor está rodando');
 
-<h1>Express</h1>
