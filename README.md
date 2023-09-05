@@ -16,7 +16,7 @@
 
 <h2>O que é Node Js?</h2>
 
-- Interpretador que intepreta fora do navegadores
+- É um interpretador Javascript que roda fora dos navegadores
 - Criar aplicações backend 
 - Programas para inteligencia artificial, ect
 - Conecta banco de dados 
@@ -27,7 +27,7 @@
 - Muito leve
 - Muito rápido 
 - Usa Javascript
-- Tem um dos maisores ecossistemas do mundo 
+- Tem um dos maiores ecossistemas do mundo 
 - Está sendo utilizado fortemente no mercado 
 - 10x mais requisições mais requisições que php
 
@@ -36,13 +36,13 @@
 
 - É um interpretador Javasctipt, que roda fora dos navegadores
  O Node Js é uma runtime de Javascript
-- Ou seja, umba biblioteaca utilizada por um compilador durante a execução do programa 
+- Ou seja, uma biblioteaca utilizada por um compilador durante a execução do programa 
 - Está construida na V8 Engine (Escrita em C++ da Google)
 - Possibilitando criar softwares em JS no lado do servidor 
 - Temos então um código JS rodando em C++ para garantir alta performace
 
 
-O que posso construir fora dos navegodores?
+O que posso construir fora dos navegadores?
 - Construir aplicações web end
 - Criar aplicacoes pra windows  
 - Criar aplicacoes de linha de comando 
@@ -99,9 +99,16 @@ O que é npm?
 
 <h3>O que é HTTP</h3>
 - Um usuário tem um trabalho  da escola, ele vai ate o Google e o Google vai retorna a pesquisa. 
-- O Usuiario só consegue acessar o Google gracas ao HTTP, que é **Protocolo de Transferência** com a web.
+- O Usuiario só consegue acessar o Google gracas ao HTTP, que é **Protocolo de Transferência de dados** com a web.
 - Mandando informacoes para o goodle através do protocolo HTTP. 
 - HTTP: **Protocoloco de Trasferencia de dados** 
 - Cliente - Servidor 
 - Servidor: enviar a resposta
-- Cliente: requisição
+- Cliente: requisição de pesquisa
+
+<h2> Criar um servidor http </h2>
+
+```javascript
+    var http = require('http'); 
+    http.createServer().listen(8181); 
+```
